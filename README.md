@@ -1,11 +1,4 @@
 # NfcProject
-
-# I- Membre :
-
-  - RAHOUI Imane<br>
-  - SAHRAOUI Fatima Ezzahra<br>
-  - MITRE Zohair<br>
-  - RAMZI Mouad<br>
   
 # II- PRESENTATION DU PROJET :
 
